@@ -13,7 +13,7 @@ Boostcamp iOS 2기 학습 및 과제안내 저장소입니다.
 	* HIG, UIKit 이해, Interface Builder, Swift 기초, Auto layout
 
 * 2주차 *(7.6 ~ 7.12)*
-	* Foundation, Swift 기본, Tap Gesture, Delegation, MVC, Tabbar Controller, Auto layout coding
+	* Foundation, Swift 기본, Tap Gesture, Delegation, MVC, Auto layout coding, Design Patterns
 
 * 3주차 *(7.13 ~ 7.19)*
 	* Animation, Table View, Table View Cell, Thread, Singleton, AppDelegate
@@ -24,7 +24,7 @@ Boostcamp iOS 2기 학습 및 과제안내 저장소입니다.
 
 
 * 5주차 *(7.27 ~ 8.2)*
-	* URL, JSON, Networking, Collection View, Dummy API Tools
+	* URL, JSON, Networking, Collection View
 
 ### 2차 교육
 1차교육 중 중간평가(절대평가함)를 통과한 튜티는 2차 교육에 참여할 수 있습니다. 2차 교육은 실제 프로젝트를 진행하며 하나의 서비스를 애플리케이션을 제작해봅니다.
