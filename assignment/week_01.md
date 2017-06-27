@@ -9,7 +9,7 @@
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)의 Connect the UI to Code 파트까지 읽어오기
 * [iOS Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/) 읽어오기
 * [UIKit User Interface Catalog](https://developer.apple.com/library/content/documentation/UserExperience/Conceptual/UIKitUICatalog/) 읽어오기
-* [스위프트 읽어오기 과제](reading_assignment/ios_reading_assignment_swift.pdf) - 첫 번째 읽어오기 과제
+* [스위프트 읽어오기 과제](reading/ios_reading_assignment_swift_1.pdf) - 첫 번째 읽어오기 과제
 * [영상](video/login_view.mov)으로 주어지는 로그인 화면 구성해보기
 	* 로고 이미지 뷰
 	* ID/PW 필드
