@@ -1,5 +1,10 @@
 # 1주차 과제 안내
 
+## 제출기한 및 방법
+
+* 제출기한 : 2017.07.04 (화) 18:00
+* 제출방법 : 과제 결과물의 github 저장소 주소를 담당 튜터에게 전달
+
 ## 개인과제
 
 * 교재 3장까지 문제 해결해보기
@@ -29,5 +34,11 @@
 
 ## 모둠과제
 
-* 교재 2장~6장의 스위프트 코드를 [Swift 3.1 Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)와 [Swift API 가이드라인](https://github.com/connect-boostcamp/SwiftAPIDesignGuidelines)에 맞게 수정해보기 (마크다운으로 작성, 간단한 예시 및 제출 저장소 제공)
+* 교재 2장~6장의 스위프트 코드를 [Swift 3.1 Language Guide](https://developer.apple.com/library/content/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)와 [Swift API 가이드라인](https://github.com/connect-boostcamp/SwiftAPIDesignGuidelines)에 맞게 수정해봅니다.
+	* 모둠원 중 한 명의 github 저장소에서 공동작업합니다.
+	* 저장소에 마크다운으로 작성하여 README.md 파일로 저장합니다.
+	* 저장소의 주소를 담당튜터에게 전달합니다
+
 	* 예시문서 [Link](https://github.com/connect-boostcamp/SwiftNamingCorrectionSample)
+
+예제 저장소 링크를 따라가면 간단한 예시를 볼 수 있습니다. 간단한 예시이므로 더 좋은 표현방법으로 문서를 작성 하여도 좋습니다. 단, mark down 문법을 사용하여야 합니다.
