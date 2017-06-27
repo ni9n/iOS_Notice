@@ -1,6 +1,20 @@
 # Boostcamp iOS 2기 안내사항
 
-Boostcamp iOS 2기 학습 및 과제안내 저장소입니다.
+Boostcamp iOS 2기 학습 및 과제안내 저장소입니다.  
+
+과제는 하나의 github 저장소에서 모두 관리하는 것으로 합니다.
+
+```
+ex)
+boostcamp_iOS_yagom 저장소 생성 후
+매 주 차별 폴더를 하위폴더로 생성
+week1 폴더에 1주차 과제 수행
+week2 폴더에 2주차 과제 수행
+...
+모둠장은 각 모둠의 주차별 과제 수행을 위해 모둠 과제 저장소를 하나 더 생성합니다
+```
+
+**.gitignore** 파일을 제대로 생성해주세요. [gitignore.io](https://www.gitignore.io)를 활용하면 좋습니다.
 
 ## 주차별 학습내용 안내
 
