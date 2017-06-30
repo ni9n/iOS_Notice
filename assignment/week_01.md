@@ -8,7 +8,7 @@
 ## 개인과제
 
 * 교재 3장까지 문제 해결해보기
-	* 1장 : 간단한 iOS앱 만들기]
+	* 1장 : 간단한 iOS앱 만들기
 	* 2장 : Swift 언어
 	* 3장 : 뷰와 뷰 계층구조
 * [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html)의 Connect the UI to Code 파트까지 읽어오기
